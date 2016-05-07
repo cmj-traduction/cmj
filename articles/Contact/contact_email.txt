@@ -1,0 +1,29 @@
+Email
+In the following fields, you can use these mail-tags:
+[your-name][your-email][your-subject][your-message][file-1][file-2][file-3]
+To	
+admin@cmj-traduction.fr
+From	
+[your-name] <admin@cmj-traduction.fr>
+Sujet	
+[your-subject]
+Additional Headers	
+Reply-To: [your-email]
+Message Body	
+De : [your-name] <[your-email]>
+Sujet : [your-subject]
+
+Corps du message :
+[your-message]
+
+--
+Cet email a été envoyé via le formulaire de contact de CMJ Traduction (http://www.cmj-traduction.fr)
+  Exclude lines with blank mail-tags from output
+ Envoyer cet email au format HTML
+File Attachments	
+[file-1][file-2][file-3]
+
+Email (2)
+ Use Mail (2)
+Mail (2) is an additional mail template often used as an autoresponder.
+Sauvegarder

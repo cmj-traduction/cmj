@@ -1,0 +1,91 @@
+Messages
+Edit messages used in the following situations.
+Le message de l'expéditeur a été envoyé avec succès
+
+Votre message a bien été envoyé. Merci.
+
+Sender's message failed to send
+
+Erreur lors de l'envoi du message. Veuillez réessayer plus tard ou contacter l'administrateur d'une autre manière.
+
+Des erreurs de validation sont survenues
+
+Erreur de validation. Veuillez vérifier les champs et soumettre à nouveau.
+
+L'envoi a été détecté comme spam
+
+Erreur lors de l'envoi du message. Veuillez réessayer plus tard ou contacter l'administrateur d'une autre manière.
+
+Il est nécessaire d'accepter les termes
+
+Merci de bien vouloir accepter les conditions pour continuer.
+
+Un champ obligatoire n'a pas été rempli
+
+Please fill in the required field.
+
+There is a field with input that is longer than the maximum allowed length
+
+This input is too long.
+
+There is a field with input that is shorter than the minimum allowed length
+
+This input is too short.
+
+Le format de date utilisée n'est pas valide
+
+Le format de date semble invalide.
+
+La date est antérieure à la date limite minimale
+
+Cette date est trop tôt.
+
+La date est postérieure à la date limite maximale
+
+Cette date est trop tard.
+
+Le téléchargement de fichier a échoué pour une raison inconnue
+
+Impossible de télécharger le fichier.
+
+Uploaded file is not allowed for file type
+
+Ce type de fichier n'est pas autorisé.
+
+Le fichier téléchargé est trop volumineux
+
+Ce fichier est trop volumineux.
+
+La mise en ligne du fichier a échoué du fait d'une erreur PHP
+
+Impossible de mettre en ligne le fichier. Une erreur est survenue.
+
+Le format numérique utilisé n'est pas valide
+
+Le format numérique semble invalide.
+
+Le nombre est plus petit que le minimum autorisé
+
+Ce nombre est trop petit.
+
+Le nombre est plus grand que le maximum autorisé
+
+Ce nombre est trop grand.
+
+Vous n'avez pas entré la bonne réponse au quiz
+
+Votre réponse est incorrecte.
+
+L'adresse email utilisée n'est pas valide
+
+L'adresse email semble invalide.
+
+L'URL utilisée n'est pas valide
+
+L'URL semble invalide.
+
+Le numéro de téléphone utilisé n'est pas valide
+
+Le numéro de téléphone semble invalide.
+
+Sauvegarder

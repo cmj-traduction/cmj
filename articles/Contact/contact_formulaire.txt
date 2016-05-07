@@ -1,0 +1,19 @@
+<p>Votre nom (obligatoire)<br />
+    [text* your-name] </p>
+
+<p>Votre email (obligatoire)<br />
+    [email* your-email] </p>
+
+<p>Sujet<br />
+    [text your-subject] </p>
+
+<p>Votre message<br />
+    [textarea your-message] </p>
+
+<p>Pièce(s) jointe(s)<br />
+[file file-1 limit:3mb]
+[file file-2 limit:3mb]
+[file file-3 limit:3mb]
+ </p>
+[recaptcha]
+<p>[submit "Envoyer"]</p>
